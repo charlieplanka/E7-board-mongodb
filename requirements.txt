@@ -1,2 +1,3 @@
 Django
 djongo
+python-dotenv==0.17.0
